@@ -1,6 +1,12 @@
 Release Notes
 =============
 
+0.3.2
+-------
+
+Fix wrong encoding in case of byte streams.
+Fix wrong parameter name of pyserial method call.
+
 0.3.1
 -------
 
